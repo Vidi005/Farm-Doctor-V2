@@ -9,3 +9,5 @@ https://github.com/Vidi005/Farm-Doctor-V2/tree/main/AndroidStudioProject
 https://github.com/Vidi005/IDCamp-Dicoding-Challenge-SDGs-2020/blob/master/Google%20Collaboratory/tflite%20model/Plant_Leaf_Diseases_Classification_MobileNet.tflite
 ## APK File:
 https://github.com/Vidi005/Farm-Doctor-V2/blob/main/Output/app-debug.zip
+## Trefle API
+https://trefle.io/
